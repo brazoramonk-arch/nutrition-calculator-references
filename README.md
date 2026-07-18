@@ -8,6 +8,16 @@
 
 This repository documents resources related to free online calculators in the relevant niche. The main tool referenced is hosted at [https://calorique.io/](https://calorique.io/).
 
+## Try the Calculators
+
+Free, no-signup nutrition tools that use the data sources documented here:
+
+- [Calorie Calculator](https://calorique.io/calorie-calculator/)
+- [BMI Calculator](https://calorique.io/bmi-calculator/)
+- [BMR Calculator](https://calorique.io/bmr-calculator/)
+- [Body Fat Calculator](https://calorique.io/body-fat-calculator/)
+- [TDEE Calculator](https://calorique.io/tdee-calculator/)
+
 ## Data Sources
 
 The calculators referenced use authoritative data sources:
